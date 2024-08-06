@@ -1,0 +1,3 @@
+[submodule "keking"]
+	path = keking
+	url = https://github.com/shibaaboy/keking
